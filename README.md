@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="cuwayo - ships banger projects (def)" />
+<img width="100%" src="./header.svg" alt="cuwayo - ships banger projects (def)" />
 
 <a href="https://github.com/cuwayo">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3200&pause=900&color=D0BCFF&center=true&vCenter=true&width=620&height=48&lines=we+use+arch+btw+%F0%9F%90%A7;Rust+%C2%B7+Python+%C2%B7+Flutter;bots%2C+apps+%26+linux+tinkering;Material+You+enjoyer+%F0%9F%8E%A8" alt="Typing SVG" />
@@ -147,6 +147,6 @@ Free, open-source, offline-first 2FA app for Android and iOS, built with Flutter
 
 <br/>
 
-<img width="100%" src="./assets/footer.svg" alt="thanks for stopping by" />
+<img width="100%" src="./footer.svg" alt="thanks for stopping by" />
 
 </div>
